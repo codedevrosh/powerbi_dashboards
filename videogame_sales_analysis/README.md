@@ -96,7 +96,7 @@ The analysis highlights how structured data visualization can uncover strategic 
 
 ---
 
-## 🔗 Author
+## Author
 
 **Arockia Roshan A**  
  Data Science 
