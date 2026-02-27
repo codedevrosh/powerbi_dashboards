@@ -22,7 +22,7 @@ This Power BI dashboard analyzes global workforce reductions from 2020 to 2026 a
 
 ## Dashboard Preview
 
-![Global Layoff Dashboard Preview](dashboard_preview.png)
+![Global Layoff Dashboard Preview](./dashboard_preview.png)
 
 ## Conclusion
 
