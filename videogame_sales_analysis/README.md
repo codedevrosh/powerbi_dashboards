@@ -1,102 +1,57 @@
 #  Video Game Sales Analysis Dashboard
 
-##  Project Overview
+## Project Overview
 
-This Power BI dashboard analyzes global video game sales performance across genres, platforms, publishers, regions, and time using the VGChartz 2024 dataset (64,000+ records).
+This Power BI dashboard analyzes 64K+ video game records to uncover market trends across genres, platforms, publishers, regions, and time.
 
-The goal of this project is to uncover key market trends, identify high-performing segments, and evaluate competitive publisher performance using data modeling and DAX-driven insights.
-
----
-
-##  Business Objective
-
-- Identify top-performing genres and platforms  
-- Understand regional market distribution  
-- Evaluate publisher competitiveness  
-- Analyze historical industry growth trends  
-- Compare critic scores with commercial success  
+The objective was to identify key growth periods, dominant consoles, top-performing titles, and regional market leaders.
 
 ---
 
-##  Dataset Information
+## Key Insights
 
-- **Source:** VGChartz 2024 Dataset  
-- **Total Records:** ~64,000 games  
-- **Time Range:** Multiple release years  
-- **Sales Unit:** Million copies sold (not revenue)
-
-### Key Columns:
-- Title  
-- Console (Platform)  
-- Genre  
-- Publisher  
-- Release Date  
-- NA, JP, PAL, Other Sales  
-- Total Sales (Million Units)  
-- Critic Score (partial availability)
+- **Highest Critically Rated Game:** *Red Dead Redemption – Undead Nightmare*  
+- **Best-Selling Game:** *GTA V*, followed by *Call of Duty*
+- **Top Market Region:** North America recorded the highest total unit sales
+- **Peak Industry Year:** 2008 had the highest number of copies sold
+- Sales declined after 2014, potentially influenced by the rise of mobile gaming
+- **Top Console:** PlayStation 2, followed by Xbox 360 and PlayStation 3
+- **Total Units Sold:** ~6,605 million copies globally
+- **Total Games Released:** ~19,000 titles
+- Most Popular Genres: Sports, Action, and Shooter
 
 ---
 
-##  Data Preparation
+## Dashboard Features
 
-- Removed rows with missing `total_sales`
-- Extracted Year from release date
-- Filtered blank critic scores for rating analysis
-- Created DAX measures for:
-  - Total Global Sales
-  - Total Publishers
-  - Regional Sales Breakdown
-- Applied Top N filtering for ranking visuals
-
----
-
-##  Key Dashboard Insights
-
-###  Industry Growth
-- Peak gaming industry performance observed between 2007–2011.
-- Decline observed post-2012, possibly due to mobile market expansion.
-
-###  Genre Performance
-- Action and Sports genres dominate global unit sales.
-
-###  Platform Dominance
-- PlayStation 2, Nintendo DS, and Wii rank among top-performing consoles.
-
-###  Regional Distribution
-- North America contributes the largest share of total global sales.
+- KPI Summary Metrics
+- Sales Trend Analysis by Year
+- Genre & Platform Performance
+- Regional Market Share
+- Top 10 Best-Selling Games
+- Top 5 Publishers
+- Highest Critically Rated Game
 
 ---
 
-## Tools & Technologies
+## Tools Used
 
-- Power BI Desktop  
-- DAX (Data Analysis Expressions)  
-- Power Query  
-- Data Modeling  
-- Interactive Filtering & Slicers  
+- Power BI
+- DAX (Data Analysis Expressions)
+- Power Query
+- Data Modeling
+- Interactive Filtering & Slicers
 
 ---
 
-## Key Features
+## Dashboard Preview
 
-- KPI Summary Metrics  
-- Sales Trend Over Time  
-- Genre & Platform Performance  
-- Regional Market Share (Pie Chart)  
-- Top 5 Best-Selling Games    
-- Highest Critically Rated Game  
+![Dashboard Preview](dashboard_preview.png)
 
 ---
 
 ## Conclusion
 
-This project demonstrates business intelligence workflow including data cleaning, transformation, DAX modeling, and insight-driven dashboard development.
+The analysis highlights the dominance of console gaming during the late 2000s, with North America leading global consumption. While critically acclaimed titles gained recognition, commercial success was driven largely by strong franchises and established publishers.
 
-The analysis highlights how structured data visualization can uncover strategic market insights within the global gaming industry.
-
----
-
-## Author
-
-**Arockia Roshan A**  
- Data Science 
+This project demonstrates end-to-end business intelligence workflow including data cleaning, modeling, and insight-driven storytelling.
