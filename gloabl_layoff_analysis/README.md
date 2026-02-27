@@ -20,15 +20,13 @@ This Power BI dashboard analyzes global workforce reductions from 2020 to 2026 a
 - KPI Design & Conditional Formatting  
 - Data Storytelling  
 
-## Business Value
+## Dashboard Preview
 
-This dashboard enables decision-makers to:
+![Global Layoff Dashboard Preview](dashboard_preview.png)
 
-- Identify industries most affected by economic downturn  
-- Evaluate funding-stage vulnerability  
-- Track hiring trend shifts  
-- Analyze revenue decline vs layoff patterns  
+## Conclusion
 
-## Author
+The Global Layoff Analysis Dashboard provides a structured and data-driven view of workforce trends during economic fluctuations. By combining time intelligence, interactive filtering, and industry-level insights, the report highlights key patterns in layoffs, funding-stage risk, and revenue impact.  
 
-Arockia Roshan A
+The dashboard demonstrates strong business intelligence capabilities, including advanced DAX usage, data modeling, and executive-level storytelling.
+
