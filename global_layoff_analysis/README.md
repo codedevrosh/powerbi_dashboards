@@ -4,13 +4,26 @@
 
 This Power BI dashboard analyzes global workforce reductions from 2020 to 2026 across industries, funding stages, company sizes, and geographic regions. The report delivers interactive insights into layoff trends and economic impact.
 
-## Key Highlights
+## Key Insights
 
-- Analyzed 3M+ total layoffs across 15K+ companies  
-- Identified 2023 as the peak layoff year  
-- Compared industry-wise and funding-stage impact   
-- Implemented proper time intelligence with a Date table  
-- Designed interactive slicers for country, continent, and layoff reason  
+- Layoffs peaked in 2023 during the economic correction period.  
+- Technology and Finance sectors experienced the highest workforce reductions.  
+- Series C and late-stage funded companies showed greater vulnerability compared to early-stage startups.  
+- Revenue decline trends correlated with increased layoff counts across major industries.  
+- Post-2023 data indicates gradual stabilization in workforce reductions.  
+- Hiring freezes were more prominent than active hiring during peak layoff years.
+
+## Dashboard Features
+
+- Executive KPI cards displaying Total Layoffs, Total Companies, Average Layoffs per Company
+- Industry-wise layoff distribution using treemap visualization  
+- Funding stage impact analysis (Seed, Series A–C, IPO)  
+- Company size segmentation (Startup, Mid-size, Enterprise)  
+- Hiring status breakdown (Hiring, Slowdown, Freeze)  
+- Revenue growth percentage analysis by industry  
+- Geographic analysis using interactive world map  
+- Time trend visualization of layoffs (2020–2026)  
+- Dynamic slicers for  Country and Continent
 
 ## Tools & Skills
 
