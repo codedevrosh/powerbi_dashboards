@@ -15,7 +15,7 @@ The project demonstrates data cleaning, transformation, DAX calculations, and st
 Navigation hub with structured page routing.
 
 **Dashboard Preview**
-(Add screenshot here – Home Page)
+![Home Page Preview](netflix_content_analysis/preview_image/home_page.png)
 
 ---
 
