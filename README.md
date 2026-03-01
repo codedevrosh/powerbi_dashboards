@@ -31,7 +31,7 @@ Dashboard exploring global layoff trends, industry impact, company-level distrib
 
 ### Preview
 
-![Global Layoff Dashboard Preview](./global_layoff_analysis/dashboard_preview.png)
+![Global Layoff Dashboard Preview](global_layoff_analysis/dashboard_preview.png)
 
 ---
 
