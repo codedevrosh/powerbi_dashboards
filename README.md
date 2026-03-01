@@ -46,6 +46,6 @@ Dashboard analyzing global video game sales by platform, genre, region, publishe
 
 Each folder contains:
 - Power BI (.pbix) file
-- Dataset (if applicable)
+- Dataset (.csv file)
 - Preview images
 - Project-specific README
