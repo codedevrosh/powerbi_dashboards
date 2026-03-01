@@ -29,7 +29,7 @@ High-level content insights across the entire dataset.
 - Country-wise Content Origin
 
 **Dashboard Preview**
-(Add screenshot here – Overview Page)
+![Home Page Preview](netflix_content_analysis/preview_image/overview_page.png)
 
 ---
 
@@ -44,7 +44,7 @@ Focused analysis on movie-specific metrics.
 - Country of Origin Analysis
 
 **Dashboard Preview**
-(Add screenshot here – Movies Page)
+![Home Page Preview](netflix_content_analysis/preview_image/movies_page.png)
 
 ---
 
@@ -59,7 +59,7 @@ Season-focused insights for TV content.
 - Genre & Rating Breakdown
 
 **Dashboard Preview**
-(Add screenshot here – TV Shows Page)
+![Home Page Preview](netflix_content_analysis/preview_image/tvshows_page.png)
 
 ---
 
