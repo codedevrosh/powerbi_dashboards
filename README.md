@@ -40,6 +40,8 @@ Dashboard analyzing global video game sales by platform, genre, region, publishe
 
 [View Project Folder](./videogame_sales_analysis)
 
+### Preview
+
 ![Video Game Sales Dashboard Preview](./videogame_sales_analysis/dashboard_preview.png)
 
 ---
