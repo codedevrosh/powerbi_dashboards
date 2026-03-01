@@ -15,7 +15,7 @@ The project demonstrates data cleaning, transformation, DAX calculations, and st
 Navigation hub with structured page routing.
 
 **Dashboard Preview**
-![Home Page Preview](netflix_content_analysis/preview_image/home_page.png)
+![Home Page Preview](preview_image/home_page.png)
 
 ---
 
@@ -29,7 +29,7 @@ High-level content insights across the entire dataset.
 - Country-wise Content Origin
 
 **Dashboard Preview**
-![Home Page Preview](netflix_content_analysis/preview_image/overview_page.png)
+![Overview Page](preview_image/overview_page.png)
 
 ---
 
@@ -44,7 +44,7 @@ Focused analysis on movie-specific metrics.
 - Country of Origin Analysis
 
 **Dashboard Preview**
-![Home Page Preview](netflix_content_analysis/preview_image/movies_page.png)
+![Movies Page](preview_image/movies_page.png)
 
 ---
 
@@ -59,7 +59,7 @@ Season-focused insights for TV content.
 - Genre & Rating Breakdown
 
 **Dashboard Preview**
-![Home Page Preview](netflix_content_analysis/preview_image/tvshows_page.png)
+![TV Shows Page](preview_image/tvshows_page.png)
 
 ---
 
